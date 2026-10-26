@@ -1,0 +1,6 @@
+{
+  "name": "BizFlow AI",
+  "description": "AI-powered business management and billing system for hardware shops, wholesalers, and retail businesses in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
